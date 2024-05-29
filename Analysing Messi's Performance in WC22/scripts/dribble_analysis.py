@@ -1,5 +1,35 @@
-plt.show()
-        
+import matplotlib.pyplot as plt
+import pandas as pd
+import json
+
+home_team_required = "Argentina"
+player_analysed = 'Lionel Andrés Messi Cuccittini'
+
+# Match details
+matches = {
+    3869151: "Australia",
+    3869321: "Netherlands",
+    3869685: "France",
+    3857264: "Poland",
+    3857289: "Mexico",
+    3869519: "Coratia",
+    3857300: "Saudi Arabia"
+}
+match_ids = [3869151, 3869321, 3869685, 3857264, 3857289, 3869519, 3857300]
+color_country = {3869151: 'xkcd:sun yellow', 3869321: 'xkcd:orange', 3869685: 'xkcd:blue', 
+                 3857264: 'xkcd:red', 3857289: 'xkcd:frog green', 3869519: 'xkcd:vermillion', 
+                 3857300: 'xkcd:dark grass green'}
+
+dribble_count = 0
+
+# Create the figure and axis
+(fig, ax) = createPitch(pitchLengthX, pitchWidthY, 'yards', 'gray')
+
+for match_id_required in match_ids:
+    file_name = str(match_id_required) + '.json'
+    with open('Statsbomb/data/events/' + file_name, encoding='utf-8') as data_file:
+        data = json.load(data_file)
+   
     # Get the nested structure into a dataframe
     df = pd.json_normalize(data, sep="_").assign(match_id=file_name[:-5])
     
