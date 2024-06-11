@@ -39,7 +39,11 @@ underpaid_players_extreme = merged_df[merged_df['per-week-salary'] < 0.35 * fair
 # Plotting the graph with the background portion colored and selected annotations
 plt.figure(figsize=(14, 8))
 plt.scatter(market_value, per_week_salary, alpha=0.7, label='Actual Salary')
-plt.scatter(market_value, fair_market_salary, alpha=0.7, label='Fair Market Salary')
+
+#Plotting fair market salary reference
+plt.plot(market_value, fair_market_salary, '--', color='black', alpha=0.7, label='Fair Market Salary')
+
+
 
 plt.yscale('log')
 plt.xscale('log')
@@ -78,6 +82,6 @@ annotate_players(underpaid_players_extreme, 'black')
 
 plt.legend()
 
-plt.savefig('output-updated.png')
+plt.savefig('moneyball-fms-epl.png')
 # Display the plot
 plt.show()
