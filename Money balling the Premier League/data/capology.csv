@@ -1,0 +1,560 @@
+Player,per-week-salary,per-yer-salary,contract-signed,contract-expired,years-remaining,gross-remaining,status,pos,extended-pos,nationality,Club
+Kevin De Bruyne,464794,24169284,"Apr 7, 2021","Jun 30, 2025",2,48338568,Starter,F,AM,Belgium,Manchester City
+Erling Haaland,435744,22658704,"Jul 1, 2022","Jun 30, 2027",4,90634814,Starter,F,CF,Norway,Manchester City
+Casemiro,406695,21148123,"Aug 22, 2022","Jun 30, 2026",3,63444370,Reserve,M,DM,Brazil,Manchester United
+Mohamed Salah,406695,21148123,"Jul 1, 2022","Jun 30, 2025",2,42296247,Starter,F,RW,Egypt,Liverpool
+Raphaël Varane,395075,20543891,"Aug 14, 2021","Jun 30, 2025",2,41087783,Reserve,D,CB,France,Manchester United
+Raheem Sterling,377645,19637543,"Jul 13, 2022","Jun 30, 2027",4,78550172,Starter,F,LW,England,Chelsea
+Bernardo Silva,348595,18126963,"Aug 23, 2023","Jun 30, 2026",3,54380889,Reserve,F,AM,Portugal,Manchester City
+Marcus Rashford,348595,18126963,"Jul 18, 2023","Jun 30, 2028",5,90634814,Starter,F,LW,England,Manchester United
+Jack Grealish,348595,18126963,"Aug 5, 2021","Jun 30, 2027",4,72507852,Reserve,F,LW,England,Manchester City
+Kai Havertz,325356,16918499,"Jul 1, 2023","Jun 30, 2028",5,84592493,Starter,F,AM,Germany,Arsenal
+Gabriel Jesus,307926,16012151,"Jul 4, 2022","Jun 30, 2027",4,64048602,Starter,F,CF,Brazil,Arsenal
+Mason Mount,290496,15105802,"Jul 5, 2023","Jun 30, 2028",5,75529012,Reserve,F,AM,England,Manchester United
+Anthony Martial,290496,15105802,"Jan 31, 2019","Jun 30, 2024",1,15105802,Reserve,F,CF,France,Manchester United
+Reece James,290496,15105802,"Sep 5, 2022","Jun 30, 2028",5,75529012,Reserve,D,RB,England,Chelsea
+John Stones,290496,15105802,"Aug 10, 2021","Jun 30, 2026",3,45317407,Reserve,D,CB,England,Manchester City
+Declan Rice,278876,14501570,"Jul 15, 2023","Jun 30, 2028",5,72507852,Starter,M,DM,England,Arsenal
+Martin Ødegaard,278876,14501570,"Sep 22, 2023","Jun 30, 2028",5,72507852,Starter,F,AM,Norway,Arsenal
+Bruno Fernandes,278876,14501570,"Apr 1, 2022","Jun 30, 2026",3,43504711,Starter,F,AM,Portugal,Manchester United
+Phil Foden,261447,13595222,"Oct 14, 2022","Jun 30, 2027",4,54380889,Starter,F,RW,England,Manchester City
+Rodri,255637,13293106,"Jul 12, 2022","Jun 30, 2027",4,53172424,Starter,M,DM,Spain,Manchester City
+Virgil van Dijk,255637,13293106,"Aug 13, 2021","Jun 30, 2025",2,26586212,Starter,D,CB,Netherlands,Liverpool
+Antony,232397,12084642,"Aug 30, 2022","Jun 30, 2027",4,48338568,Starter,F,RW,Brazil,Manchester United
+Ben Chilwell,232397,12084642,"Apr 11, 2023","Jun 30, 2027",4,48338568,Reserve,D,LB,England,Chelsea
+Wesley Fofana,232397,12084642,"Aug 31, 2022","Jun 30, 2029",6,72507852,Reserve,D,CB,France,Chelsea
+Thiago,232397,12084642,"Sep 18, 2020","Jun 30, 2024",1,12084642,Reserve,M,CM,Spain,Liverpool
+Thomas Partey,232397,12084642,"Oct 5, 2020","Jun 30, 2025",2,24169284,Reserve,M,DM,Ghana,Arsenal
+Josko Gvardiol,232397,12084642,"Aug 5, 2023","Jun 30, 2028",5,60423210,Starter,D,CB,Croatia,Manchester City
+Christopher Nkunku,226587,11782526,"Jul 1, 2023","Jun 30, 2029",6,70695155,Reserve,F,AM,France,Chelsea
+Bukayo Saka,226587,11782526,"May 23, 2023","Jun 30, 2027",4,47130103,Starter,F,RW,England,Arsenal
+Jadon Sancho,226587,11782526,"Jul 23, 2021","Jun 30, 2026",3,35347578,Reserve,F,LW,England,Manchester United
+Harry Maguire,220777,11480410,"Aug 5, 2019","Jun 30, 2025",2,22960820,Starter,D,CB,England,Manchester United
+Heung-min Son,220777,11480410,"Jul 23, 2021","Jun 30, 2025",2,22960820,Starter,F,LW,South Korea,Tottenham
+William Saliba,220777,11480410,"Jul 7, 2023","Jun 30, 2027",4,45921639,Starter,D,CB,France,Arsenal
+Manuel Akanji,209157,10876178,"Sep 1, 2022","Jun 30, 2027",4,43504711,Starter,D,CB,Switzerland,Manchester City
+Gabriel Martinelli,209157,10876178,"Feb 3, 2023","Jun 30, 2027",4,43504711,Starter,F,LW,Brazil,Arsenal
+Rúben Dias,209157,10876178,"Aug 30, 2021","Jun 30, 2027",4,43504711,Starter,D,CB,Portugal,Manchester City
+Trent Alexander-Arnold,209157,10876178,"Jul 30, 2021","Jun 30, 2025",2,21752355,Starter,D,RB,England,Liverpool
+Enzo Fernández,209157,10876178,"Jan 31, 2023","Jun 30, 2031",8,87009422,Starter,M,CM,Argentina,Chelsea
+Kyle Walker,203347,10574062,"Sep 14, 2023","Jun 30, 2026",3,31722185,Starter,D,RB,England,Manchester City
+Marc Cucurella,203347,10574062,"Aug 5, 2022","Jun 30, 2028",5,52870308,Reserve,D,LB,Spain,Chelsea
+James Maddison,197537,10271946,"Jul 1, 2023","Jun 30, 2028",5,51359728,Starter,F,AM,England,Tottenham
+Cristian Romero,191728,9969830,"Aug 30, 2022","Jun 30, 2027",4,39879318,Starter,D,CB,Argentina,Tottenham
+Timo Werner,191728,9969830,"May 28, 2024","Jun 30, 2025",2,19939659,Reserve,F,CF,Germany,Tottenham
+Bruno Guimarães,185918,9667714,"Oct 7, 2023","Jun 30, 2028",5,48338568,Starter,M,DM,Brazil,Newcastle
+Ansu Fati,185918,9667714,"Sep 1, 2023","Jun 30, 2024",1,9667714,Reserve,F,LW,Spain,Brighton
+Nathan Aké,185918,9667714,"Jul 29, 2023","Jun 30, 2027",4,38670854,Starter,D,CB,Netherlands,Manchester City
+Luke Shaw,174298,9063481,"Apr 4, 2023","Jun 30, 2027",4,36253926,Reserve,D,LB,England,Manchester United
+Mateo Kovacic,174298,9063481,"Jul 1, 2023","Jun 30, 2027",4,36253926,Reserve,M,CM,Croatia,Manchester City
+Clément Lenglet,174298,9063481,"Sep 1, 2023","Jun 30, 2024",1,9063481,Reserve,D,CB,France,Aston Villa
+Christian Eriksen,174298,9063481,"Jul 15, 2022","Jun 30, 2025",2,18126963,Reserve,M,CM,Denmark,Manchester United
+Joelinton,174298,9063481,"Apr 11, 2024","Jun 30, 2028",5,45317407,Starter,M,CM,Brazil,Newcastle
+Oleksandr Zinchenko,174298,9063481,"Jul 22, 2022","Jun 30, 2026",3,27190444,Starter,D,LB,Ukraine,Arsenal
+Alisson,174298,9063481,"Aug 4, 2021","Jun 30, 2027",4,36253926,Starter,K,GK,Brazil,Liverpool
+Moisés Caicedo,174298,9063481,"Aug 14, 2023","Jun 30, 2031",8,72507852,Starter,M,DM,Ecuador,Chelsea
+Alexis Mac Allister,174298,9063481,"Jul 1, 2023","Jun 30, 2028",5,45317407,Starter,M,CM,Argentina,Liverpool
+Youri Tielemans,174298,9063481,"Jul 1, 2023","Jun 30, 2027",4,36253926,Reserve,M,CM,Belgium,Aston Villa
+Lucas Paquetá,174298,9063481,"Aug 29, 2022","Jun 30, 2027",4,36253926,Starter,F,AM,Brazil,West Ham
+Ryan Gravenberch,174298,9063481,"Sep 1, 2023","Jun 30, 2028",5,45317407,Reserve,M,CM,Netherlands,Liverpool
+Ben White,174298,9063481,"Mar 14, 2024","Jun 30, 2028",5,45317407,Starter,D,RB,England,Arsenal
+Boubacar Kamara,174298,9063481,"Jul 1, 2022","Jun 30, 2027",4,36253926,Starter,M,DM,France,Aston Villa
+Kalvin Phillips,174298,9063481,"Jan 26, 2024","Jun 30, 2024",1,9063481,Reserve,M,DM,England,West Ham
+Darwin Núñez,162678,8459249,"Jul 1, 2022","Jun 30, 2028",5,42296247,Starter,F,CF,Uruguay,Liverpool
+Diogo Jota,162678,8459249,"Aug 2, 2022","Jun 30, 2027",4,33836997,Reserve,F,LW,Portugal,Liverpool
+Bernd Leno,151058,7855017,"Dec 13, 2023","Jun 30, 2027",4,31420069,Starter,K,GK,Germany,Fulham
+Moussa Diaby,151058,7855017,"Jul 22, 2023","Jun 30, 2028",5,39275086,Starter,F,RW,France,Aston Villa
+Abdoulaye Doucouré,151058,7855017,"Nov 3, 2023","Jun 30, 2025",2,15710034,Starter,M,CM,Mali,Everton
+Matheus Nunes,151058,7855017,"Sep 1, 2023","Jun 30, 2028",5,39275086,Reserve,M,CM,Portugal,Manchester City
+Ollie Watkins,151058,7855017,"Oct 6, 2023","Jun 30, 2028",5,39275086,Starter,F,CF,England,Aston Villa
+Kurt Zouma,145248,7552901,"Aug 28, 2021","Jun 30, 2025",2,15105802,Starter,D,CB,France,West Ham
+Jordan Pickford,145248,7552901,"Feb 24, 2023","Jun 30, 2027",4,30211605,Starter,K,GK,England,Everton
+Danny Ings,145248,7552901,"Jan 20, 2023","Jun 30, 2025",2,15105802,Reserve,F,CF,England,West Ham
+Lucas Digne,139438,7250785,"Jan 13, 2022","Jun 30, 2026",3,21752355,Starter,D,LB,France,Aston Villa
+Jarrod Bowen,139438,7250785,"Oct 8, 2023","Jun 30, 2030",7,50755496,Starter,F,RW,England,West Ham
+Emiliano Martínez,139438,7250785,"Jan 21, 2022","Jun 30, 2027",4,29003141,Starter,K,GK,Argentina,Aston Villa
+Alphonse Areola,139438,7250785,"Jul 1, 2022","Jun 30, 2027",4,29003141,Starter,K,GK,France,West Ham
+Cody Gakpo,139438,7250785,"Jan 1, 2023","Jun 30, 2028",5,36253926,Starter,F,LW,Netherlands,Liverpool
+Kieran Trippier,139438,7250785,"Jan 27, 2023","Jun 30, 2025",2,14501570,Starter,D,RB,England,Newcastle
+John McGinn,139438,7250785,"Aug 8, 2018","Jun 30, 2027",4,29003141,Starter,M,CM,Scotland,Aston Villa
+Aaron Ramsdale,139438,7250785,"May 18, 2023","Jun 30, 2026",3,21752355,Reserve,K,GK,England,Arsenal
+Victor Lindelöf,139438,7250785,"Jan 4, 2024","Jun 30, 2025",2,14501570,Starter,D,CB,Sweden,Manchester United
+Leon Bailey,139438,7250785,"Feb 12, 2024","Jun 30, 2027",4,29003141,Reserve,F,LW,Jamaica,Aston Villa
+André Onana,139438,7250785,"Jul 20, 2023","Jun 30, 2028",5,36253926,Starter,K,GK,Cameroon,Manchester United
+Malang Sarr,139438,7250785,"Aug 27, 2020","Jun 30, 2025",2,14501570,Reserve,D,CB,France,Chelsea
+Alexander Isak,139438,7250785,"Aug 26, 2022","Jun 30, 2028",5,36253926,Starter,F,CF,Sweden,Newcastle
+Lisandro Martínez,139438,7250785,"Jul 27, 2022","Jun 30, 2027",4,29003141,Reserve,D,CB,Argentina,Manchester United
+Dominik Szoboszlai,139438,7250785,"Jul 2, 2023","Jun 30, 2028",5,36253926,Starter,M,CM,Hungary,Liverpool
+Divock Origi,139438,7250785,"Sep 1, 2023","Jun 30, 2024",1,7250785,Reserve,F,CF,Belgium,Nottingham Forest
+James Ward-Prowse,133628,6948669,"Aug 14, 2023","Jun 30, 2027",4,27794676,Starter,M,CM,England,West Ham
+André Gomes,130500,6785991,"Jul 1, 2019","Jun 30, 2024",1,6785991,Reserve,M,CM,Portugal,Everton
+Dejan Kulusevski,127818,6646553,"Jul 1, 2023","Jun 30, 2028",5,33232765,Starter,F,RW,Sweden,Tottenham
+Thiago Silva,127818,6646553,"Feb 10, 2023","Jun 30, 2024",1,6646553,Starter,D,CB,Brazil,Chelsea
+Jorginho,127818,6646553,"May 9, 2024","Jun 30, 2025",2,13293106,Reserve,M,DM,Italy,Arsenal
+Amadou Onana,116198,6042321,"Aug 9, 2022","Jun 30, 2027",4,24169284,Starter,M,DM,Belgium,Everton
+Mykhailo Mudryk,116198,6042321,"Jan 15, 2023","Jun 30, 2031",8,48338568,Reserve,F,LW,Ukraine,Chelsea
+James Tarkowski,116198,6042321,"Jul 2, 2022","Jun 30, 2026",3,18126963,Starter,D,CB,England,Everton
+Levi Colwill,116198,6042321,"Aug 2, 2023","Jun 30, 2029",6,36253926,Starter,D,CB,England,Chelsea
+Andrew Robertson,116198,6042321,"Aug 24, 2021","Jun 30, 2026",3,18126963,Reserve,D,LB,Scotland,Liverpool
+Tyrone Mings,116198,6042321,"Feb 17, 2023","Jun 30, 2026",3,18126963,Reserve,D,CB,England,Aston Villa
+Takehiro Tomiyasu,116198,6042321,"Mar 20, 2024","Jun 30, 2026",3,18126963,Reserve,D,RB,Japan,Arsenal
+Carney Chukwuemeka,116198,6042321,"Aug 4, 2022","Jun 30, 2028",5,30211605,Reserve,M,CM,England,Chelsea
+Julián Álvarez,116198,6042321,"Mar 16, 2023","Jun 30, 2028",5,30211605,Starter,F,SS,Argentina,Manchester City
+Dean Henderson,116198,6042321,"Aug 31, 2023","Jun 30, 2028",5,30211605,Reserve,K,GK,England,Crystal Palace
+Dele Alli,116198,6042321,"Jan 31, 2022","Jun 30, 2024",1,6042321,Reserve,F,AM,England,Everton
+Diego Carlos,116198,6042321,"Jul 1, 2022","Jun 30, 2026",3,18126963,Starter,D,CB,Brazil,Aston Villa
+Dominic Calvert-Lewin,116198,6042321,"Mar 6, 2020","Jun 30, 2025",2,12084642,Starter,F,CF,England,Everton
+Eberechi Eze,116198,6042321,"Nov 10, 2023","Jun 30, 2027",4,24169284,Starter,F,AM,England,Crystal Palace
+Eddie Nketiah,116198,6042321,"Jun 18, 2022","Jun 30, 2027",4,24169284,Reserve,F,CF,England,Arsenal
+Ederson,116198,6042321,"Sep 1, 2021","Jun 30, 2026",3,18126963,Starter,K,GK,Brazil,Manchester City
+Edson Álvarez,116198,6042321,"Aug 10, 2023","Jun 30, 2028",5,30211605,Starter,M,DM,Mexico,West Ham
+Matt Targett,116198,6042321,"Jul 1, 2022","Jun 30, 2026",3,18126963,Reserve,D,LB,England,Newcastle
+Reiss Nelson,116198,6042321,"Jul 6, 2023","Jun 30, 2027",4,24169284,Reserve,F,RW,England,Arsenal
+Raúl Jiménez,116198,6042321,"Jul 25, 2023","Jun 30, 2025",2,12084642,Starter,F,CF,Mexico,Fulham
+Pierre-Emile Højbjerg,116198,6042321,"Aug 11, 2020","Jun 30, 2025",2,12084642,Reserve,M,DM,Denmark,Tottenham
+Gabriel Magalhães,116198,6042321,"Oct 21, 2022","Jun 30, 2027",4,24169284,Starter,D,CB,Brazil,Arsenal
+Pau Torres,116198,6042321,"Jul 12, 2023","Jun 30, 2028",5,30211605,Starter,D,CB,Spain,Aston Villa
+Joel Matip,116198,6042321,"Oct 18, 2019","Jun 30, 2024",1,6042321,Reserve,D,CB,Cameroon,Liverpool
+Michael Olise,116198,6042321,"Aug 17, 2023","Jun 30, 2027",4,24169284,Reserve,F,RW,France,Crystal Palace
+Emerson,110389,5740205,"Aug 23, 2022","Jun 30, 2026",3,17220615,Starter,D,LB,Italy,West Ham
+Sven Botman,104579,5438089,"Jul 1, 2022","Jun 30, 2027",4,21752355,Reserve,D,CB,Netherlands,Newcastle
+Odsonne Edouard,104579,5438089,"Aug 31, 2021","Jun 30, 2025",2,10876178,Starter,F,CF,France,Crystal Palace
+Richarlison,104579,5438089,"Jul 1, 2022","Jun 30, 2027",4,21752355,Starter,F,CF,Brazil,Tottenham
+Pablo Sarabia,104579,5438089,"Jan 17, 2023","Jun 30, 2025",2,10876178,Reserve,F,RW,Spain,Wolverhampton
+Donny van de Beek,104579,5438089,"Sep 2, 2020","Jun 30, 2025",2,10876178,Reserve,M,CM,Netherlands,Manchester United
+Aaron Wan-Bissaka,104579,5438089,"Jan 4, 2024","Jun 30, 2025",2,10876178,Starter,D,RB,England,Manchester United
+Jurrien Timber,104579,5438089,"Jul 14, 2023","Jun 30, 2028",5,27190444,Reserve,D,CB,Netherlands,Arsenal
+Adam Lallana,104579,5438089,"Mar 13, 2023","Jun 30, 2024",1,5438089,Reserve,F,AM,England,Brighton
+Benoît Badiashile,104579,5438089,"Jan 5, 2023","Jun 30, 2030",7,38066622,Reserve,D,CB,France,Chelsea
+Jack Harrison,104579,5438089,"Aug 14, 2023","May 31, 2024",1,5438089,Starter,F,RW,England,Everton
+Willian,104579,5438089,"Jul 17, 2023","Jun 30, 2024",1,5438089,Starter,F,LW,Brazil,Fulham
+Leandro Trossard,104579,5438089,"Jan 20, 2023","Jun 30, 2026",3,16314267,Reserve,F,LW,Belgium,Arsenal
+Tomas Soucek,104579,5438089,"Jan 1, 2024","Jun 30, 2027",4,21752355,Starter,M,DM,Czech Republic,West Ham
+Mohammed Kudus,104579,5438089,"Aug 27, 2023","Jun 30, 2028",5,27190444,Starter,F,AM,Ghana,West Ham
+Michail Antonio,98769,5135973,"Jan 7, 2022","Jun 30, 2024",1,5135973,Reserve,F,CF,Jamaica,West Ham
+Rasmus Højlund,98769,5135973,"Aug 5, 2023","Jun 30, 2028",5,25679864,Starter,F,CF,Denmark,Manchester United
+Pedro Porro,98769,5135973,"Jul 1, 2023","Jun 30, 2028",5,25679864,Starter,D,RB,Spain,Tottenham
+Radu Drăgușin,98769,5135973,"Jan 11, 2024","Jun 30, 2030",7,35951810,Reserve,D,CB,Romania,Tottenham
+Diogo Dalot,98769,5135973,"May 31, 2023","Jun 30, 2028",5,25679864,Starter,D,RB,Portugal,Manchester United
+Joe Gomez,98769,5135973,"Jul 7, 2022","Jun 30, 2027",4,20543891,Starter,D,CB,England,Liverpool
+David Raya,98769,5135973,"Aug 15, 2023","Jun 30, 2024",1,5135973,Starter,K,GK,Spain,Arsenal
+Felipe,92959,4833857,"Jan 31, 2023","Jun 30, 2024",1,4833857,Reserve,D,CB,Brazil,Nottingham Forest
+Axel Disasi,92959,4833857,"Aug 4, 2023","Jun 30, 2029",6,29003141,Starter,D,CB,France,Chelsea
+Nathaniel Clyne,92959,4833857,"Jun 16, 2023","Jun 30, 2024",1,4833857,Reserve,D,RB,England,Crystal Palace
+Harvey Barnes,92959,4833857,"Jul 23, 2023","Jun 30, 2028",5,24169284,Reserve,F,LW,England,Newcastle
+Morgan Gibbs-White,92959,4833857,"Aug 19, 2022","Jun 30, 2027",4,19335427,Starter,F,AM,England,Nottingham Forest
+Idrissa Gueye,92959,4833857,"May 17, 2024","Jun 30, 2025",2,9667714,Reserve,M,CM,Senegal,Everton
+Callum Hudson-Odoi,92959,4833857,"Sep 1, 2023","Jun 30, 2026",3,14501570,Reserve,F,LW,England,Nottingham Forest
+Michael Keane,92959,4833857,"Aug 30, 2020","Jun 30, 2025",2,9667714,Reserve,D,CB,England,Everton
+Lewis Dunk,92959,4833857,"Jul 12, 2023","Jun 30, 2026",3,14501570,Starter,D,CB,England,Brighton
+Joachim Andersen,92959,4833857,"Jul 28, 2021","Jun 30, 2026",3,14501570,Starter,D,CB,Denmark,Crystal Palace
+Kaoru Mitoma,92959,4833857,"Oct 20, 2023","Jun 30, 2027",4,19335427,Starter,F,LW,Japan,Brighton
+Alex Iwobi,92959,4833857,"Sep 1, 2023","Jun 30, 2028",5,24169284,Starter,F,AM,Nigeria,Fulham
+Justin Kluivert,92959,4833857,"Jul 1, 2023","Jun 30, 2028",5,24169284,Reserve,F,LW,Netherlands,Bournemouth
+João Palhinha,92959,4833857,"Sep 14, 2023","Jun 30, 2028",5,24169284,Starter,M,DM,Portugal,Fulham
+Nélson Semedo,92959,4833857,"May 19, 2023","Jun 30, 2025",2,9667714,Starter,D,RB,Portugal,Wolverhampton
+Joe Willock,92959,4833857,"Aug 13, 2021","Jun 30, 2027",4,19335427,Reserve,M,CM,England,Newcastle
+Ben Davies,92959,4833857,"Jul 25, 2022","Jun 30, 2025",2,9667714,Reserve,D,LB,Wales,Tottenham
+Matty Cash,92959,4833857,"Apr 4, 2022","Jun 30, 2027",4,19335427,Starter,D,RB,Poland,Aston Villa
+Chris Wood,92959,4833857,"Jul 1, 2023","Jun 30, 2024",1,4833857,Starter,F,CF,New Zealand,Nottingham Forest
+Ben Godfrey,87149,4531741,"Oct 5, 2020","Jun 30, 2025",2,9063481,Reserve,D,CB,England,Everton
+Ibrahim Sangaré,87149,4531741,"Sep 1, 2023","Jun 30, 2028",5,22658704,Reserve,M,DM,Cote d'Ivoire,Nottingham Forest
+Destiny Udogie,87149,4531741,"Dec 12, 2023","Jun 30, 2030",7,31722185,Starter,D,LB,Italy,Tottenham
+Douglas Luiz,87149,4531741,"Oct 14, 2022","Jun 30, 2026",3,13595222,Starter,M,CM,Brazil,Aston Villa
+Rodrigo Bentancur,87149,4531741,"Jan 31, 2022","Jun 30, 2026",3,13595222,Reserve,M,CM,Uruguay,Tottenham
+Emiliano Buendía,87149,4531741,"Jul 1, 2021","Jun 30, 2026",3,13595222,Reserve,F,RW,Argentina,Aston Villa
+Ezri Konsa,87149,4531741,"Sep 20, 2023","Jun 30, 2028",5,22658704,Starter,D,CB,England,Aston Villa
+Tyrell Malacia,87149,4531741,"Jul 5, 2022","Jun 30, 2026",3,13595222,Reserve,D,LB,Netherlands,Manchester United
+Konstantinos Tsimikas,87149,4531741,"Sep 25, 2023","Jun 30, 2027",4,18126963,Reserve,D,LB,Greece,Liverpool
+Fraser Forster,87149,4531741,"Dec 6, 2023","Jun 30, 2025",2,9063481,Reserve,K,GK,England,Tottenham
+Guglielmo Vicario,87149,4531741,"Jul 1, 2023","Jun 30, 2028",5,22658704,Starter,K,GK,Italy,Tottenham
+Cole Palmer,87149,4531741,"Sep 1, 2023","Jun 30, 2030",7,31722185,Starter,F,AM,England,Chelsea
+Cédric Soares,87149,4531741,"Jul 1, 2020","Jun 30, 2024",1,4531741,Reserve,D,RB,Portugal,Arsenal
+Pape Sarr,81339,4229625,"Jan 2, 2024","Jun 30, 2030",7,29607373,Starter,M,CM,Senegal,Tottenham
+Giovani Lo Celso,81339,4229625,"Jul 1, 2020","Jun 30, 2025",2,8459249,Reserve,F,AM,Argentina,Tottenham
+Mason Holgate,81339,4229625,"Feb 1, 2024","May 31, 2024",1,4229625,Reserve,D,CB,England,Sheffield United
+Issa Diop,81339,4229625,"Aug 10, 2022","Jun 30, 2027",4,16918499,Reserve,D,CB,France,Fulham
+Jefferson Lerma,81339,4229625,"Jul 1, 2023","Jun 30, 2026",3,12688874,Starter,M,DM,Colombia,Crystal Palace
+Brennan Johnson,81339,4229625,"Sep 1, 2023","Jun 30, 2028",5,21148123,Reserve,F,RW,Wales,Tottenham
+Hee-chan Hwang,81339,4229625,"Dec 21, 2023","Jun 30, 2028",5,21148123,Starter,F,CF,South Korea,Wolverhampton
+Cheick Doucouré,81339,4229625,"Feb 28, 2024","Jun 30, 2029",6,25377748,Reserve,M,DM,Mali,Crystal Palace
+Angelo Ogbonna,81339,4229625,"Jul 5, 2023","Jun 30, 2024",1,4229625,Reserve,D,CB,Italy,West Ham
+Jacob Ramsey,81339,4229625,"Apr 26, 2022","Jun 30, 2027",4,16918499,Reserve,M,CM,England,Aston Villa
+Dominic Solanke,81339,4229625,"Sep 14, 2023","Jun 30, 2027",4,16918499,Starter,F,CF,England,Bournemouth
+Ibrahima Konaté,81339,4229625,"Jul 1, 2021","Jun 30, 2026",3,12688874,Starter,D,CB,France,Liverpool
+Sofyan Amrabat,75529,3927509,"Sep 1, 2023","Jun 30, 2024",1,3927509,Reserve,M,DM,Morocco,Manchester United
+Jonny Evans,75529,3927509,"Sep 1, 2023","Jun 30, 2024",1,3927509,Reserve,D,CB,Northern Ireland,Manchester United
+Luis Sinisterra,75529,3927509,"Sep 1, 2023","May 31, 2024",1,3927509,Reserve,F,LW,Colombia,Bournemouth
+Nicolas Jackson,75529,3927509,"Jul 1, 2023","Jun 30, 2031",8,31420069,Starter,F,CF,Senegal,Chelsea
+Maxwel Cornet,75529,3927509,"Aug 5, 2022","Jun 30, 2027",4,15710034,Reserve,F,LW,Cote d'Ivoire,West Ham
+Pascal Groß,75529,3927509,"Jul 1, 2017","Jun 30, 2025",2,7855017,Starter,M,CM,Germany,Brighton
+Lukasz Fabianski,75529,3927509,"Dec 15, 2023","Jun 30, 2025",2,7855017,Reserve,K,GK,Poland,West Ham
+Timothy Castagne,75529,3927509,"Aug 29, 2023","Jun 30, 2027",4,15710034,Starter,D,RB,Belgium,Fulham
+Adama Traoré,75529,3927509,"Aug 12, 2023","Jun 30, 2025",2,7855017,Reserve,F,RW,Spain,Fulham
+Sasa Lukic,73205,3806662,"Jan 31, 2023","Jun 30, 2027",4,15226649,Reserve,M,CM,Serbia,Fulham
+Tyler Adams,69719,3625393,"Aug 20, 2023","Jun 30, 2028",5,18126963,Reserve,M,DM,United States,Bournemouth
+Matheus Cunha,69719,3625393,"Jul 1, 2023","Jun 30, 2027",4,14501570,Starter,F,CF,Brazil,Wolverhampton
+Adrián,69719,3625393,"Jun 30, 2023","Jun 30, 2024",1,3625393,Reserve,K,GK,Spain,Liverpool
+Manor Solomon,69719,3625393,"Jul 11, 2023","Jun 30, 2028",5,18126963,Reserve,F,LW,Israel,Tottenham
+James Milner,69719,3625393,"May 14, 2024","Jun 30, 2025",2,7250785,Reserve,M,CM,England,Brighton
+Jeffrey Schlupp,69719,3625393,"May 10, 2024","Jun 30, 2025",2,7250785,Starter,M,LM,Ghana,Crystal Palace
+Nick Pope,69719,3625393,"Jul 1, 2022","Jun 30, 2026",3,10876178,Starter,K,GK,England,Newcastle
+Scott McTominay,69719,3625393,"Jun 23, 2020","Jun 30, 2025",2,7250785,Starter,M,DM,Scotland,Manchester United
+Anthony Gordon,69719,3625393,"Jan 29, 2023","Jun 30, 2026",3,10876178,Starter,F,LW,England,Newcastle
+Robert Sánchez,69719,3625393,"Aug 5, 2023","Jun 30, 2030",7,25377748,Starter,K,GK,Spain,Chelsea
+Danny Welbeck,69719,3625393,"May 14, 2024","Jun 30, 2026",3,10876178,Reserve,F,CF,England,Brighton
+Nicolò Zaniolo,69719,3625393,"Aug 18, 2023","Jun 30, 2024",1,3625393,Reserve,F,AM,Italy,Aston Villa
+Miguel Almirón,69719,3625393,"Feb 24, 2023","Jun 30, 2026",3,10876178,Starter,F,RW,Paraguay,Newcastle
+Jakub Kiwior,67395,3504546,"Jan 23, 2023","Jun 30, 2028",5,17522731,Reserve,D,CB,Poland,Arsenal
+Vitaliy Mykolenko,67395,3504546,"Jan 1, 2022","Jun 30, 2026",3,10513638,Starter,D,LB,Ukraine,Everton
+Adam Webster,63909,3323277,"Aug 2, 2021","Jun 30, 2026",3,9969830,Reserve,D,CB,England,Brighton
+Luis Díaz,63909,3323277,"Jan 30, 2022","Jun 30, 2027",4,13293106,Starter,F,LW,Colombia,Liverpool
+Ben Mee,63909,3323277,"May 16, 2024","Jun 30, 2025",2,6646553,Starter,D,CB,England,Brentford
+Boubacar Traoré,63909,3323277,"Jul 1, 2023","Jun 30, 2027",4,13293106,Reserve,M,DM,Mali,Wolverhampton
+Jairo Riedewald,63909,3323277,"Feb 3, 2021","Jun 30, 2024",1,3323277,Reserve,M,DM,Netherlands,Crystal Palace
+Dan Burn,63909,3323277,"Oct 13, 2023","Jun 30, 2025",2,6646553,Starter,D,LB,England,Newcastle
+Ryan Sessegnon,63909,3323277,"Aug 8, 2019","Jun 30, 2025",2,6646553,Reserve,M,LM,England,Tottenham
+Saïd Benrahma,63909,3323277,"Jan 29, 2021","Jun 30, 2026",3,9969830,Reserve,F,LW,Algeria,West Ham
+Chris Richards,63909,3323277,"Jul 27, 2022","Jun 30, 2027",4,13293106,Reserve,D,CB,United States,Crystal Palace
+Mohamed Elneny,63909,3323277,"Feb 21, 2023","Jun 30, 2024",1,3323277,Reserve,M,DM,Egypt,Arsenal
+Yves Bissouma,63909,3323277,"Jul 1, 2022","Jun 30, 2026",3,9969830,Starter,M,CM,Mali,Tottenham
+Stefan Ortega Moreno,63909,3323277,"Jul 1, 2022","Jun 30, 2025",2,6646553,Reserve,K,GK,Germany,Manchester City
+Seamus Coleman,63909,3323277,"Jun 29, 2023","Jun 30, 2024",1,3323277,Reserve,D,RB,Ireland,Everton
+Emil Krafth,63909,3323277,"Feb 14, 2024","Jun 30, 2025",2,6646553,Reserve,D,RB,Sweden,Newcastle
+Sergio Reguilón,61585,3202430,"Jan 17, 2024","May 31, 2024",1,3202430,Reserve,D,LB,Spain,Brentford
+Arnaut Danjuma,61004,3172219,"Jul 23, 2023","Jun 30, 2024",1,3172219,Reserve,F,LW,Netherlands,Everton
+Aaron Cresswell,58099,3021160,"Oct 9, 2019","Jun 30, 2024",1,3021160,Reserve,D,LB,England,West Ham
+Marcos Senesi,58099,3021160,"Aug 8, 2022","Jun 30, 2026",3,9063481,Starter,D,CB,Argentina,Bournemouth
+Marc Guéhi,58099,3021160,"Jul 18, 2021","Jun 30, 2026",3,9063481,Starter,D,CB,England,Crystal Palace
+Will Hughes,58099,3021160,"May 10, 2024","Jun 30, 2025",2,6042321,Starter,M,CM,England,Crystal Palace
+Wataru Endo,58099,3021160,"Aug 18, 2023","Jun 30, 2027",4,12084642,Reserve,M,DM,Japan,Liverpool
+Andreas Pereira,58099,3021160,"Jul 11, 2022","Jun 30, 2026",3,9063481,Starter,F,AM,Brazil,Fulham
+Antonee Robinson,58099,3021160,"Jul 7, 2023","Jun 30, 2028",5,15105802,Starter,D,LB,United States,Fulham
+Trevoh Chalobah,58099,3021160,"Nov 25, 2022","Jun 30, 2028",5,15105802,Reserve,D,CB,England,Chelsea
+Tino Livramento,58099,3021160,"Aug 8, 2023","Jun 30, 2028",5,15105802,Reserve,D,RB,England,Newcastle
+Beto,58099,3021160,"Aug 29, 2023","Jun 30, 2027",4,12084642,Reserve,F,CF,Portugal,Everton
+Calum Chambers,58099,3021160,"Jan 27, 2022","Jun 30, 2025",2,6042321,Reserve,D,RB,England,Aston Villa
+Taiwo Awoniyi,58099,3021160,"Jul 1, 2022","Jun 30, 2027",4,12084642,Reserve,F,CF,Nigeria,Nottingham Forest
+Solly March,58099,3021160,"Mar 17, 2023","Jun 30, 2026",3,9063481,Reserve,F,RW,England,Brighton
+Conor Gallagher,58099,3021160,"Jul 1, 2022","Jun 30, 2025",2,6042321,Starter,M,CM,England,Chelsea
+Sergio Gómez,58099,3021160,"Aug 16, 2022","Jun 30, 2026",3,9063481,Reserve,D,LB,Spain,Manchester City
+Sean Longstaff,58099,3021160,"May 25, 2022","Jun 30, 2025",2,6042321,Starter,M,CM,England,Newcastle
+Ryan Christie,58099,3021160,"Nov 10, 2023","Jun 30, 2027",4,12084642,Starter,F,AM,Scotland,Bournemouth
+Robin Olsen,58099,3021160,"Jul 1, 2022","Jun 30, 2024",1,3021160,Reserve,K,GK,Sweden,Aston Villa
+Pervis Estupiñán,58099,3021160,"Aug 16, 2022","Jun 30, 2027",4,12084642,Reserve,D,LB,Ecuador,Brighton
+Pedro Neto,58099,3021160,"Mar 9, 2022","Jun 30, 2027",4,12084642,Starter,F,RW,Portugal,Wolverhampton
+Oscar Bobb,58099,3021160,"Feb 26, 2024","Jun 30, 2029",6,18126963,Reserve,F,RW,Norway,Manchester City
+Harrison Reed,58099,3021160,"Sep 14, 2023","Jun 30, 2027",4,12084642,Reserve,M,CM,England,Fulham
+Albert Sambi Lokonga,58099,3021160,"Sep 1, 2023","May 31, 2024",1,3021160,Reserve,M,CM,Belgium,Luton Town
+Noni Madueke,58099,3021160,"Jan 20, 2023","Jun 30, 2030",7,21148123,Reserve,F,RW,England,Chelsea
+Neto,58099,3021160,"Mar 27, 2023","Jun 30, 2026",3,9063481,Starter,K,GK,Brazil,Bournemouth
+Neco Williams,58099,3021160,"Jul 10, 2022","Jun 30, 2026",3,9063481,Reserve,D,RB,Wales,Nottingham Forest
+Neal Maupay,58099,3021160,"Sep 1, 2023","Jun 30, 2024",1,3021160,Starter,F,CF,France,Brentford
+Alejandro Garnacho,58099,3021160,"Apr 28, 2023","Jun 30, 2028",5,15105802,Starter,F,LW,Argentina,Manchester United
+Nayef Aguerd,58099,3021160,"Jul 1, 2022","Jun 30, 2027",4,12084642,Starter,D,CB,Morocco,West Ham
+James Tomkins,58099,3021160,"Jun 16, 2023","Jun 30, 2024",1,3021160,Reserve,D,CB,England,Crystal Palace
+Jean-Philippe Mateta,58099,3021160,"Jan 31, 2022","Jun 30, 2026",3,9063481,Reserve,F,CF,France,Crystal Palace
+Jérémy Doku,58099,3021160,"Aug 24, 2023","Jun 30, 2028",5,15105802,Reserve,F,LW,Belgium,Manchester City
+Micky van de Ven,58099,3021160,"Aug 8, 2023","Jun 30, 2029",6,18126963,Starter,D,CB,Netherlands,Tottenham
+João Pedro,58099,3021160,"Jul 1, 2023","Jun 30, 2028",5,15105802,Starter,F,CF,Brazil,Brighton
+Joël Veltman,58099,3021160,"Jul 3, 2023","Jun 30, 2025",2,6042321,Starter,D,RB,Netherlands,Brighton
+Max Kilman,58099,3021160,"Aug 13, 2023","Jun 30, 2028",5,15105802,Starter,D,CB,England,Wolverhampton
+Matt Doherty,58099,3021160,"Jul 20, 2023","Jun 30, 2026",3,9063481,Reserve,D,RB,Ireland,Wolverhampton
+Mathias Jensen,58099,3021160,"Jan 18, 2023","Jun 30, 2026",3,9063481,Starter,M,CM,Denmark,Brentford
+Mason Greenwood,58099,3021160,"Jul 1, 2019","Jun 30, 2025",2,6042321,Reserve,F,RW,England,Manchester United
+Kenny Tete,58099,3021160,"May 17, 2024","Jun 30, 2025",2,6042321,Reserve,D,RB,Netherlands,Fulham
+Konstantinos Mavropanos,58099,3021160,"Aug 22, 2023","Jun 30, 2028",5,15105802,Reserve,D,CB,Greece,West Ham
+Callum Wilson,53451,2779468,"Sep 15, 2023","Jun 30, 2025",2,5558935,Reserve,F,CF,England,Newcastle
+Malo Gusto,52289,2719044,"Jan 29, 2023","Jun 30, 2030",7,19033311,Starter,D,RB,France,Chelsea
+Calvin Bassey,52289,2719044,"Jul 28, 2023","Jun 30, 2027",4,10876178,Starter,D,CB,Nigeria,Fulham
+Bryan Mbeumo,52289,2719044,"Jan 26, 2022","Jun 30, 2026",3,8157133,Starter,F,RW,Cameroon,Brentford
+Rob Holding,52289,2719044,"Sep 1, 2023","Jun 30, 2026",3,8157133,Reserve,D,CB,England,Crystal Palace
+Tom Heaton,52289,2719044,"Jun 16, 2023","Jun 30, 2024",1,2719044,Reserve,K,GK,England,Manchester United
+Roméo Lavia,52289,2719044,"Aug 18, 2023","Jun 30, 2030",7,19033311,Reserve,M,DM,Belgium,Chelsea
+Fábio Vieira,52289,2719044,"Jul 1, 2022","Jun 30, 2027",4,10876178,Reserve,F,AM,Portugal,Arsenal
+Fabian Schär,52289,2719044,"Jan 8, 2024","Jun 30, 2025",2,5438089,Starter,D,CB,Switzerland,Newcastle
+Mario Lemina,52289,2719044,"Jan 13, 2023","Jun 30, 2025",2,5438089,Starter,M,DM,Gabon,Wolverhampton
+Josh Brownhill,52289,2719044,"Jan 30, 2020","Jun 30, 2024",1,2719044,Starter,M,CM,England,Burnley
+Philip Billing,52289,2719044,"Aug 21, 2023","Jun 30, 2027",4,10876178,Starter,M,CM,Denmark,Bournemouth
+Matt Ritchie,52289,2719044,"Jun 14, 2023","Jun 30, 2024",1,2719044,Reserve,M,RM,Scotland,Newcastle
+Moussa Niakhaté,52289,2719044,"Jul 6, 2022","Jun 30, 2025",2,5438089,Starter,D,CB,Senegal,Nottingham Forest
+Lesley Ugochukwu,52289,2719044,"Aug 1, 2023","Jun 30, 2030",7,19033311,Reserve,M,DM,France,Chelsea
+Daniel Muñoz,52289,2719044,"Jan 30, 2024","Jun 30, 2027",4,10876178,Reserve,D,RB,Colombia,Crystal Palace
+Jack Cork,52289,2719044,"Jun 20, 2022","Jun 30, 2024",1,2719044,Reserve,M,DM,England,Burnley
+Igor,52289,2719044,"Jul 26, 2023","Jun 30, 2027",4,10876178,Starter,D,CB,Brazil,Brighton
+Odysseas Vlachodimos,52289,2719044,"Sep 1, 2023","Jun 30, 2027",4,10876178,Reserve,K,GK,Greece,Nottingham Forest
+Cheikhou Kouyaté,52289,2719044,"Aug 13, 2022","Jun 30, 2024",1,2719044,Reserve,M,DM,Senegal,Nottingham Forest
+Craig Dawson,52289,2719044,"Jan 22, 2023","Jun 30, 2025",2,5438089,Starter,D,CB,England,Wolverhampton
+Ashley Young,46479,2416928,"Jul 13, 2023","Jun 30, 2024",1,2416928,Starter,D,LB,England,Everton
+Jay Rodríguez,46479,2416928,"May 30, 2024","Jun 30, 2025",2,4833857,Reserve,F,CF,England,Burnley
+Martin Dubravka,46479,2416928,"Jul 1, 2018","Jun 30, 2025",2,4833857,Reserve,K,GK,Slovakia,Newcastle
+Jamaal Lascelles,46479,2416928,"Nov 1, 2018","Jun 30, 2024",1,2416928,Starter,D,CB,England,Newcastle
+Armando Broja,46479,2416928,"Feb 1, 2024","Jun 30, 2024",1,2416928,Reserve,F,CF,Albania,Fulham
+Harvey Elliott,46479,2416928,"Aug 11, 2022","Jun 30, 2027",4,9667714,Reserve,F,AM,England,Liverpool
+Ola Aina,46479,2416928,"May 21, 2024","Jun 30, 2025",2,4833857,Starter,D,RB,Nigeria,Nottingham Forest
+Oliver Skipp,46479,2416928,"Apr 20, 2022","Jun 30, 2027",4,9667714,Reserve,M,DM,England,Tottenham
+Giovanni Reyna,46479,2416928,"Jan 31, 2024","Jun 30, 2024",1,2416928,Reserve,F,AM,United States,Nottingham Forest
+Alex Scott,46479,2416928,"Aug 10, 2023","Jun 30, 2024",1,2416928,Reserve,M,CM,England,Bournemouth
+Frank Onyeka,46479,2416928,"Aug 7, 2023","Jun 30, 2027",4,9667714,Reserve,M,CM,Nigeria,Brentford
+Matt Turner,46479,2416928,"Aug 9, 2023","Jun 30, 2027",4,9667714,Starter,K,GK,United States,Nottingham Forest
+Emile Smith Rowe,46479,2416928,"Jul 22, 2021","Jun 30, 2026",3,7250785,Reserve,F,AM,England,Arsenal
+Emerson,46479,2416928,"Aug 31, 2021","Jun 30, 2026",3,7250785,Reserve,D,RB,Brazil,Tottenham
+Tyrick Mitchell,46479,2416928,"Apr 13, 2021","Jun 30, 2025",2,4833857,Starter,D,LB,England,Crystal Palace
+Deivid Washington,46479,2416928,"Aug 24, 2023","Jun 30, 2030",7,16918499,Reserve,F,CF,Brazil,Chelsea
+Matheus França,46479,2416928,"Aug 5, 2023","Jun 30, 2028",5,12084642,Reserve,F,AM,Brazil,Crystal Palace
+José Sá,46479,2416928,"Sep 29, 2023","Jun 30, 2027",4,9667714,Starter,K,GK,Portugal,Wolverhampton
+Josh Cullen,46479,2416928,"Aug 21, 2023","Jun 30, 2026",3,7250785,Reserve,M,CM,Ireland,Burnley
+Sam Johnstone,46479,2416928,"Nov 1, 2023","Jun 30, 2027",4,9667714,Starter,K,GK,England,Crystal Palace
+Sander Berge,46479,2416928,"Aug 9, 2023","Jun 30, 2027",4,9667714,Starter,M,DM,Norway,Burnley
+Stefan Bajcetic,46479,2416928,"Jan 26, 2023","Jun 30, 2027",4,9667714,Reserve,M,DM,Spain,Liverpool
+Bryan Gil,46479,2416928,"Jul 26, 2021","Jun 30, 2026",3,7250785,Reserve,F,RW,Spain,Tottenham
+Kristoffer Ajer,46479,2416928,"Nov 21, 2023","Jun 30, 2028",5,12084642,Reserve,D,CB,Norway,Brentford
+Tosin Adarabioyo,46479,2416928,"Jan 5, 2023","Jun 30, 2024",1,2416928,Reserve,D,CB,England,Fulham
+Lewis Cook,46479,2416928,"Aug 4, 2022","Jun 30, 2025",2,4833857,Starter,M,CM,England,Bournemouth
+Willy Boly,46479,2416928,"May 21, 2024","Jun 30, 2025",2,4833857,Starter,D,CB,Cote d'Ivoire,Nottingham Forest
+Marcus Bettinelli,40669,2114812,"Mar 27, 2023","Jun 30, 2026",3,6344437,Reserve,K,GK,England,Chelsea
+Adam Smith,40669,2114812,"Dec 1, 2023","Jun 30, 2025",2,4229625,Reserve,D,RB,England,Bournemouth
+Adam Wharton,40669,2114812,"Feb 1, 2024","Jun 30, 2029",6,12688874,Reserve,M,CM,England,Crystal Palace
+Álex Moreno,40669,2114812,"Jan 11, 2023","Jun 30, 2026",3,6344437,Reserve,D,LB,Spain,Aston Villa
+Altay Bayındır,40669,2114812,"Sep 1, 2023","Jun 30, 2027",4,8459249,Reserve,K,GK,Turkey,Manchester United
+Andrew Omobamidele,40669,2114812,"Sep 1, 2023","Jun 30, 2028",5,10574062,Reserve,D,CB,Ireland,Nottingham Forest
+Bart Verbruggen,40669,2114812,"Jul 3, 2023","Jun 30, 2028",5,10574062,Reserve,K,GK,Netherlands,Brighton
+Ben Brereton,40669,2114812,"Jan 5, 2024","Jun 30, 2024",1,2114812,Reserve,F,LW,Chile,Sheffield United
+Bobby Reid,40669,2114812,"Jan 24, 2020","Jun 30, 2024",1,2114812,Reserve,F,AM,Jamaica,Fulham
+Chris Mepham,40669,2114812,"Sep 6, 2022","Jun 30, 2025",2,4229625,Reserve,D,CB,Wales,Bournemouth
+Christian Nørgaard,40669,2114812,"Jan 1, 2022","Jun 30, 2025",2,4229625,Starter,M,DM,Denmark,Brentford
+Dango Ouattara,40669,2114812,"Jan 19, 2023","Jun 30, 2028",5,10574062,Reserve,F,RW,Burkina Faso,Bournemouth
+Harry Toffolo,40669,2114812,"Jan 1, 2024","Jun 30, 2025",2,4229625,Starter,D,LB,England,Nottingham Forest
+Harry Wilson,40669,2114812,"Jul 24, 2021","Jun 30, 2026",3,6344437,Starter,F,RW,Wales,Fulham
+Jacob Bruun Larsen,40669,2114812,"Jul 27, 2023","Jun 30, 2024",1,2114812,Reserve,F,LW,Denmark,Burnley
+Jacob Murphy,40669,2114812,"Jul 7, 2021","Jun 30, 2027",4,8459249,Reserve,F,RW,England,Newcastle
+Jarrad Branthwaite,40669,2114812,"Oct 6, 2023","Jun 30, 2027",4,8459249,Starter,D,CB,England,Everton
+Jean-Ricner Bellegarde,40669,2114812,"Sep 1, 2023","Jun 30, 2028",5,10574062,Reserve,M,CM,France,Wolverhampton
+Joel Ward,40669,2114812,"May 10, 2024","Jun 30, 2025",2,4229625,Starter,D,RB,England,Crystal Palace
+Jóhann Berg Gudmundsson,40669,2114812,"Jan 31, 2023","Jun 30, 2024",1,2114812,Reserve,F,RW,Iceland,Burnley
+Keane Lewis-Potter,40669,2114812,"Jul 12, 2022","Jun 30, 2028",5,10574062,Reserve,F,LW,England,Brentford
+Marcus Tavernier,40669,2114812,"Jun 16, 2023","Jun 30, 2028",5,10574062,Starter,F,LW,England,Bournemouth
+Matz Sels,40669,2114812,"Feb 1, 2024","Jun 30, 2027",4,8459249,Reserve,K,GK,Belgium,Nottingham Forest
+Max Aarons,40669,2114812,"Aug 10, 2023","Jun 30, 2024",1,2114812,Starter,D,RB,England,Bournemouth
+Nathan Redmond,40669,2114812,"Jul 21, 2023","Jun 30, 2025",2,4229625,Reserve,F,RW,England,Burnley
+Nicolás Domínguez,40669,2114812,"Sep 1, 2023","Jun 30, 2028",5,10574062,Starter,M,CM,Argentina,Nottingham Forest
+Paul Dummett,40669,2114812,"Jul 9, 2023","Jun 30, 2024",1,2114812,Reserve,D,CB,Wales,Newcastle
+Rhian Brewster,40669,2114812,"Oct 2, 2020","Jun 30, 2025",2,4229625,Reserve,F,CF,England,Sheffield United
+Rico Henry,40669,2114812,"Mar 22, 2022","Jun 30, 2026",3,6344437,Reserve,D,LB,England,Brentford
+Romain Faivre,40669,2114812,"Jul 13, 2023","Jun 30, 2028",5,10574062,Reserve,M,RM,France,Bournemouth
+Ryan Fredericks,40669,2114812,"Jul 1, 2022","Jun 30, 2024",1,2114812,Reserve,D,RB,England,Bournemouth
+Tariq Lamptey,40669,2114812,"Jan 17, 2021","Jun 30, 2025",2,4229625,Reserve,D,RB,Ghana,Brighton
+Vladimir Coufal,40669,2114812,"Oct 2, 2020","Jun 30, 2024",1,2114812,Starter,D,RB,Czech Republic,West Ham
+Lyle Foster,37765,1963754,"Oct 26, 2023","Jun 30, 2028",5,9818772,Starter,F,CF,South Africa,Burnley
+Fodé Ballo-Touré,37765,1963754,"Sep 1, 2023","Jun 30, 2024",1,1963754,Reserve,D,LB,Senegal,Fulham
+Santiago Bueno,34860,1812696,"Aug 31, 2023","Jun 30, 2028",5,9063481,Reserve,D,CB,Uruguay,Wolverhampton
+Tahith Chong,34860,1812696,"Jul 14, 2023","Jun 30, 2024",1,1812696,Reserve,F,AM,Netherlands,Luton Town
+Lloyd Kelly,34860,1812696,"Jul 1, 2019","Jun 30, 2024",1,1812696,Reserve,D,CB,England,Bournemouth
+Charlie Taylor,34860,1812696,"Jul 6, 2017","Jun 30, 2024",1,1812696,Starter,D,LB,England,Burnley
+Ethan Pinnock,34860,1812696,"May 28, 2023","Jun 30, 2027",4,7250785,Starter,D,CB,Jamaica,Brentford
+Evan Ferguson,34860,1812696,"Nov 10, 2023","Jun 30, 2029",6,10876178,Starter,F,CF,Ireland,Brighton
+Gustavo Hamer,34860,1812696,"Aug 12, 2023","Jun 30, 2027",4,7250785,Starter,M,DM,Netherlands,Sheffield United
+Danilo,34860,1812696,"Jan 16, 2023","Jun 30, 2029",6,10876178,Reserve,M,CM,Brazil,Nottingham Forest
+Scott Carson,34860,1812696,"May 23, 2024","Jun 30, 2025",2,3625393,Reserve,K,GK,England,Manchester City
+Ross Barkley,34860,1812696,"Aug 9, 2023","Jun 30, 2024",1,1812696,Starter,M,CM,England,Luton Town
+Vinicius Souza,34860,1812696,"Aug 9, 2023","Jun 30, 2027",4,7250785,Starter,M,DM,Brazil,Sheffield United
+Anel Ahmedhodzic,34860,1812696,"Jul 6, 2022","Jun 30, 2026",3,5438089,Starter,D,CB,Bosnia-Herzegovina,Sheffield United
+Elliot Anderson,34860,1812696,"Sep 21, 2022","Jun 30, 2026",3,5438089,Reserve,F,AM,Scotland,Newcastle
+Aaron Hickey,34860,1812696,"Jul 9, 2022","Jun 30, 2026",3,5438089,Reserve,D,RB,Scotland,Brentford
+Mark Flekken,34860,1812696,"Jul 1, 2023","Jun 30, 2027",4,7250785,Starter,K,GK,Netherlands,Brentford
+Tom Davies,34860,1812696,"Aug 16, 2023","Jun 30, 2026",3,5438089,Reserve,M,CM,England,Sheffield United
+João Gomes,34860,1812696,"Jan 30, 2023","Jun 30, 2028",5,9063481,Starter,M,CM,Brazil,Wolverhampton
+Tom Cairney,34860,1812696,"Jan 2, 2024","Jun 30, 2025",2,3625393,Reserve,M,CM,Scotland,Fulham
+Jhon Durán,34860,1812696,"Jan 23, 2023","Jun 30, 2024",1,1812696,Reserve,F,CF,Colombia,Aston Villa
+Mikkel Damsgaard,34860,1812696,"Aug 10, 2022","Jun 30, 2027",4,7250785,Reserve,F,LW,Denmark,Brentford
+Milos Kerkez,34860,1812696,"Jul 20, 2023","Jun 30, 2024",1,1812696,Starter,D,LB,Hungary,Bournemouth
+Marquinhos,34860,1812696,"Jul 1, 2022","Jun 30, 2027",4,7250785,Reserve,F,RW,Brazil,Arsenal
+David Datro Fofana,34860,1812696,"Jan 13, 2024","May 31, 2024",1,1812696,Reserve,F,CF,Cote d'Ivoire,Burnley
+Jan Paul van Hecke,34860,1812696,"Dec 15, 2023","Jun 30, 2027",4,7250785,Starter,D,CB,Netherlands,Brighton
+Tim Ream,34860,1812696,"Dec 29, 2023","Jun 30, 2025",2,3625393,Starter,D,CB,United States,Fulham
+Murillo,34860,1812696,"Aug 31, 2023","Jun 30, 2028",5,9063481,Starter,D,CB,Brazil,Nottingham Forest
+Marvelous Nakamba,34860,1812696,"Jul 20, 2023","Jun 30, 2026",3,5438089,Starter,M,DM,Zimbabwe,Luton Town
+Nathan Collins,34860,1812696,"Jul 4, 2023","Jun 30, 2029",6,10876178,Starter,D,CB,Ireland,Brentford
+James Garner,34860,1812696,"Sep 1, 2022","Jun 30, 2026",3,5438089,Starter,M,DM,England,Everton
+Jacob Brown,34860,1812696,"Aug 10, 2023","Jun 30, 2027",4,7250785,Reserve,F,CF,Scotland,Luton Town
+Cameron Archer,34860,1812696,"Aug 27, 2023","Jun 30, 2027",4,7250785,Starter,F,CF,England,Sheffield United
+Zeki Amdouni,34860,1812696,"Jul 19, 2023","Jun 30, 2028",5,9063481,Starter,F,CF,Switzerland,Burnley
+Ionut Radu,34860,1812696,"Jul 27, 2023","Jun 30, 2024",1,1812696,Reserve,K,GK,Romania,Bournemouth
+Nuno Tavares,34860,1812696,"Sep 1, 2023","Jun 30, 2024",1,1812696,Reserve,D,LB,Portugal,Nottingham Forest
+Vitaly Janelt,34860,1812696,"Apr 1, 2022","Jun 30, 2026",3,5438089,Starter,M,DM,Germany,Brentford
+Joshua Da Silva,34860,1812696,"May 17, 2024","Jun 30, 2025",2,3625393,Reserve,M,CM,England,Brentford
+Youssef Chermiti,34860,1812696,"Aug 11, 2023","Jun 30, 2027",4,7250785,Reserve,F,CF,Portugal,Everton
+Amad Diallo,33519,1742977,"Jan 2, 2021","Jun 30, 2025",2,3485954,Reserve,F,RW,Cote d'Ivoire,Manchester United
+Nathan Patterson,32536,1691850,"Jan 4, 2022","Jun 30, 2027",4,6767399,Reserve,D,RB,Scotland,Everton
+Rico Lewis,29050,1510580,"Aug 15, 2023","Jun 30, 2028",5,7552901,Reserve,D,RB,England,Manchester City
+Darren Randolph,29050,1510580,"Jan 26, 2023","Jun 30, 2024",1,1510580,Reserve,K,GK,Ireland,Bournemouth
+Nathan Ferguson,29050,1510580,"Jul 27, 2020","Jun 30, 2024",1,1510580,Reserve,D,CB,England,Crystal Palace
+Carlos Vinícius,29050,1510580,"Sep 1, 2022","Jun 30, 2025",2,3021160,Reserve,F,CF,Brazil,Fulham
+Thomas Kaminski,29050,1510580,"Aug 3, 2023","Jun 30, 2024",1,1510580,Starter,K,GK,Belgium,Luton Town
+Yoane Wissa,29050,1510580,"May 4, 2023","Jun 30, 2026",3,4531741,Starter,F,LW,Democratic Republic of the Congo,Brentford
+Benson Manuel,29050,1510580,"Aug 9, 2023","Jun 30, 2027",4,6042321,Reserve,F,RW,Belgium,Burnley
+Dwight McNeil,29050,1510580,"Jul 28, 2022","Jun 30, 2027",4,6042321,Starter,F,LW,England,Everton
+Gonzalo Montiel,29050,1510580,"Aug 23, 2023","Jun 30, 2024",1,1510580,Reserve,D,RB,Argentina,Nottingham Forest
+Ilya Zabarnyi,29050,1510580,"Jan 31, 2023","Jun 30, 2028",5,7552901,Starter,D,CB,Ukraine,Bournemouth
+Vitinho,29050,1510580,"Sep 29, 2023","Jun 30, 2027",4,6042321,Starter,D,RB,Brazil,Burnley
+Aaron Ramsey,29050,1510580,"Aug 22, 2023","Jun 30, 2028",5,7552901,Reserve,F,AM,England,Burnley
+Tim Krul,29050,1510580,"Aug 17, 2023","Jun 30, 2024",1,1510580,Reserve,K,GK,Netherlands,Luton Town
+Zanka,29050,1510580,"May 15, 2023","Jun 30, 2025",2,3021160,Reserve,D,CB,Denmark,Brentford
+Jordan Ayew,29050,1510580,"Nov 1, 2023","Jun 30, 2025",2,3021160,Starter,F,CF,Ghana,Crystal Palace
+Adam Davies,29050,1510580,"Jul 2, 2022","Jun 30, 2024",1,1510580,Reserve,K,GK,Wales,Sheffield United
+Valentín Barco,29050,1510580,"Jan 20, 2024","Jun 30, 2028",5,7552901,Reserve,D,LB,Argentina,Brighton
+John Fleck,29050,1510580,"Jun 26, 2023","Jun 30, 2024",1,1510580,Reserve,M,CM,Scotland,Sheffield United
+James Trafford,29050,1510580,"Jul 20, 2023","Jun 30, 2027",4,6042321,Starter,K,GK,England,Burnley
+Anthony Elanga,29050,1510580,"Jul 25, 2023","Jun 30, 2028",5,7552901,Starter,F,LW,Sweden,Nottingham Forest
+Jack Robinson,29050,1510580,"Jul 5, 2023","Jun 30, 2025",2,3021160,Starter,D,CB,England,Sheffield United
+Arijanet Muric,29050,1510580,"Jul 22, 2022","Jun 30, 2026",3,4531741,Reserve,K,GK,Kosovo,Burnley
+Auston Trusty,29050,1510580,"Aug 3, 2023","Jun 30, 2027",4,6042321,Starter,D,CB,United States,Sheffield United
+Toti Gomes,29050,1510580,"Feb 8, 2024","Jun 30, 2029",6,9063481,Starter,D,CB,Portugal,Wolverhampton
+Thomas Strakosha,29050,1510580,"Jul 14, 2022","Jun 30, 2026",3,4531741,Reserve,K,GK,Albania,Brentford
+Djordje Petrovic,29050,1510580,"Aug 26, 2023","Jun 30, 2030",7,10574062,Reserve,K,GK,Serbia,Chelsea
+Ryan Yates,29050,1510580,"Mar 14, 2022","Jun 30, 2025",2,3021160,Starter,M,CM,England,Nottingham Forest
+Oliver McBurnie,29050,1510580,"Jun 7, 2023","Jun 30, 2024",1,1510580,Reserve,F,CF,Scotland,Sheffield United
+Djed Spence,29050,1510580,"Jul 19, 2022","Jun 30, 2027",4,6042321,Reserve,D,RB,England,Tottenham
+Ivo Grbic,29050,1510580,"Jan 26, 2024","Jun 30, 2027",4,6042321,Reserve,K,GK,Croatia,Sheffield United
+Mads Roerslev Rasmussen,23240,1208464,"Feb 15, 2023","Jun 30, 2026",3,3625393,Starter,D,RB,Denmark,Brentford
+Kobbie Mainoo,23240,1208464,"Feb 9, 2023","Jun 30, 2027",4,4833857,Reserve,M,CM,England,Manchester United
+Mark Travers,23240,1208464,"Jul 1, 2020","Jun 30, 2027",4,4833857,Reserve,K,GK,Ireland,Bournemouth
+Andros Townsend,23240,1208464,"Jan 3, 2024","Jun 30, 2026",3,3625393,Reserve,F,RW,England,Luton Town
+Jordan Amissah,23240,1208464,"Jul 1, 2022","Jun 30, 2024",1,1208464,Reserve,K,GK,Ghana,Sheffield United
+Antoine Semenyo,23240,1208464,"Jan 27, 2023","Jun 30, 2027",4,4833857,Starter,F,RW,Ghana,Bournemouth
+Tom Lockyer,23240,1208464,"Jul 6, 2023","Jun 30, 2024",1,1208464,Starter,D,CB,Wales,Luton Town
+Ben Johnson,23240,1208464,"Jul 1, 2020","Jun 30, 2024",1,1208464,Reserve,D,RB,England,West Ham
+Ben Osborn,23240,1208464,"Jun 26, 2023","Jun 30, 2024",1,1208464,Reserve,M,CM,England,Sheffield United
+Jayden Bogle,23240,1208464,"May 29, 2024","Jun 30, 2025",2,2416928,Starter,D,RB,England,Sheffield United
+Jason Steele,23240,1208464,"Nov 2, 2023","Jun 30, 2026",3,3625393,Starter,K,GK,England,Brighton
+Morgan Rogers,23240,1208464,"Feb 1, 2024","Jun 30, 2024",1,1208464,Reserve,F,LW,England,Aston Villa
+Naouirou Ahamada,23240,1208464,"Jan 31, 2023","Jun 30, 2026",3,3625393,Reserve,M,CM,France,Crystal Palace
+Billy Gilmour,23240,1208464,"Sep 1, 2022","Jun 30, 2026",3,3625393,Starter,M,DM,Scotland,Brighton
+Ivan Toney,23240,1208464,"Sep 1, 2020","Jun 30, 2025",2,2416928,Reserve,F,CF,England,Brentford
+Issa Kabore,23240,1208464,"Jul 21, 2023","May 31, 2024",1,1208464,Starter,D,RB,Burkina Faso,Luton Town
+Hjalmar Ekdal,23240,1208464,"Jan 21, 2023","Jun 30, 2027",4,4833857,Reserve,D,CB,Sweden,Burnley
+Oliver Norwood,23240,1208464,"Jun 7, 2023","Jun 30, 2024",1,1208464,Starter,M,CM,Northern Ireland,Sheffield United
+Harry Arter,23240,1208464,"Sep 22, 2020","Jun 30, 2024",1,1208464,Reserve,M,CM,Ireland,Nottingham Forest
+Cauley Woodrow,23240,1208464,"Jul 1, 2023","Jun 30, 2024",1,1208464,Reserve,F,CF,England,Luton Town
+Enso González,23240,1208464,"Aug 31, 2023","Jun 30, 2029",6,7250785,Reserve,F,LW,Paraguay,Wolverhampton
+Dara O'Shea,23240,1208464,"Jul 1, 2023","Jun 30, 2027",4,4833857,Starter,D,CB,Ireland,Burnley
+Shandon Baptiste,17430,906348,"Jan 31, 2020","Jun 30, 2024",1,906348,Reserve,M,CM,Grenada,Brentford
+Facundo Buonanotte,17430,906348,"Jan 1, 2023","Jun 30, 2027",4,3625393,Reserve,F,AM,Argentina,Brighton
+Chris Basham,17430,906348,"May 12, 2022","Jun 30, 2024",1,906348,Reserve,D,CB,England,Sheffield United
+Chiedozie Ogbene,17430,906348,"Jul 1, 2023","Jun 30, 2024",1,906348,Starter,F,RW,Ireland,Luton Town
+Mads Juel Andersen,17430,906348,"Jul 3, 2023","Jun 30, 2024",1,906348,Reserve,D,CB,Denmark,Luton Town
+Yunus Emre Konak,17430,906348,"Jan 11, 2024","Jun 30, 2029",6,5438089,Reserve,M,DM,Turkey,Brentford
+Hannes Delcroix,17430,906348,"Aug 22, 2023","Jun 30, 2026",3,2719044,Reserve,D,CB,Belgium,Burnley
+Saman Ghoddos,17430,906348,"Aug 25, 2023","Jun 30, 2024",1,906348,Reserve,F,AM,Iran,Brentford
+Enes Ünal,17430,906348,"Feb 1, 2024","Jun 30, 2024",1,906348,Reserve,F,CF,Turkey,Bournemouth
+Han-Noah Massengo,17430,906348,"Aug 31, 2023","Jun 30, 2027",4,3625393,Reserve,M,DM,France,Burnley
+Brandon Austin,17430,906348,"May 28, 2024","Jun 30, 2029",6,5438089,Reserve,K,GK,England,Tottenham
+James McAtee,17430,906348,"Sep 1, 2023","May 31, 2024",1,906348,Starter,M,CM,England,Sheffield United
+Jarell Quansah,17430,906348,"Jul 1, 2023","Jun 30, 2024",1,906348,Reserve,D,CB,England,Liverpool
+Ben Doak,17430,906348,"Sep 19, 2023","Jun 30, 2024",1,906348,Reserve,F,RW,Scotland,Liverpool
+Andre Brooks,17430,906348,"Jan 12, 2024","Jun 30, 2027",4,3625393,Reserve,M,LM,England,Sheffield United
+Ameen Al-Dakhil,17430,906348,"Jan 13, 2023","Jun 30, 2026",3,2719044,Starter,D,CB,Belgium,Burnley
+Wayne Hennessey,17430,906348,"Jul 15, 2022","Jun 30, 2024",1,906348,Reserve,K,GK,Wales,Nottingham Forest
+Marek Rodak,17430,906348,"May 15, 2020","Jun 30, 2024",1,906348,Reserve,K,GK,Slovakia,Fulham
+Daiki Hashioka,17430,906348,"Jan 30, 2024","Jun 30, 2024",1,906348,Reserve,D,RB,Japan,Luton Town
+Curtis Jones,17430,906348,"Nov 17, 2022","Jun 30, 2027",4,3625393,Reserve,M,CM,England,Liverpool
+John Egan,14525,755290,"Jul 19, 2018","Jun 30, 2024",1,755290,Reserve,D,CB,Ireland,Sheffield United
+Reece Burke,14525,755290,"Jul 3, 2023","Jun 30, 2024",1,755290,Reserve,D,CB,England,Luton Town
+Elijah Adebayo,14525,755290,"Jul 16, 2023","Jun 30, 2024",1,755290,Starter,F,CF,England,Luton Town
+Simon Adingra,14525,755290,"Jul 1, 2022","Jun 30, 2026",3,2265870,Starter,F,LW,Cote d'Ivoire,Brighton
+Carlos Baleba,14525,755290,"Aug 29, 2023","Jun 30, 2028",5,3776451,Reserve,M,DM,Cameroon,Brighton
+Anis Slimane,14525,755290,"Jul 13, 2023","Jun 30, 2026",3,2265870,Reserve,M,CM,Tunisia,Sheffield United
+Wes Foderingham,14525,755290,"Jun 7, 2023","Jun 30, 2024",1,755290,Starter,K,GK,England,Sheffield United
+William Osula,14525,755290,"Oct 2, 2023","Jun 30, 2027",4,3021160,Reserve,F,CF,Denmark,Sheffield United
+Loris Karius,11620,604232,"Jul 9, 2023","Jun 30, 2024",1,604232,Reserve,K,GK,Germany,Newcastle
+Diego Moreira,11620,604232,"Jul 1, 2023","Jun 30, 2028",5,3021160,Reserve,F,LW,Portugal,Chelsea
+Rhys Williams,11620,604232,"Aug 31, 2021","Jun 30, 2026",3,1812696,Reserve,D,CB,England,Liverpool
+Rayan Aït-Nouri,11620,604232,"Jul 9, 2021","Jun 30, 2026",3,1812696,Starter,D,LB,Algeria,Wolverhampton
+Dan Potts,11620,604232,"Jun 1, 2023","Jun 30, 2024",1,604232,Reserve,D,LB,England,Luton Town
+Femi Seriki,11620,604232,"Jul 1, 2020","Jun 30, 2024",1,604232,Reserve,D,RB,England,Sheffield United
+Daniel Bentley,11620,604232,"Jan 25, 2023","Jun 30, 2025",2,1208464,Reserve,K,GK,England,Wolverhampton
+Gabriel Osho,11620,604232,"Jun 1, 2023","Jun 30, 2024",1,604232,Reserve,D,CB,England,Luton Town
+George Baldock,11620,604232,"Dec 4, 2020","Jun 30, 2024",1,604232,Starter,D,RB,Greece,Sheffield United
+Conor Bradley,11620,604232,"Jul 1, 2023","Jun 30, 2027",4,2416928,Reserve,D,RB,Northern Ireland,Liverpool
+Pelly Ruddock Mpanzu,11620,604232,"Jul 10, 2023","Jun 30, 2025",2,1208464,Reserve,M,DM,Democratic Republic of the Congo,Luton Town
+Hákon Rafn Valdimarsson,11620,604232,"Jan 26, 2024","Jun 30, 2028",5,3021160,Reserve,K,GK,Iceland,Brentford
+Steven Benda,11620,604232,"Aug 30, 2023","Jun 30, 2026",3,1812696,Reserve,K,GK,Germany,Fulham
+Hugo Bueno,11620,604232,"Nov 20, 2023","Jun 30, 2028",5,3021160,Reserve,D,LB,Spain,Wolverhampton
+Carlton Morris,11620,604232,"Jun 30, 2023","Jun 30, 2024",1,604232,Starter,F,CF,England,Luton Town
+Teden Mengi,11620,604232,"Aug 31, 2023","Jun 30, 2024",1,604232,Starter,D,CB,England,Luton Town
+Lorenz Assignon,11620,604232,"Feb 1, 2024","Jun 30, 2024",1,604232,Reserve,D,RB,France,Burnley
+Caoimhín Kelleher,11620,604232,"Jun 24, 2021","Jun 30, 2026",3,1812696,Reserve,K,GK,Ireland,Liverpool
+Ismaila Coulibaly,11620,604232,"Jun 7, 2023","Jun 30, 2024",1,604232,Reserve,M,CM,Mali,Sheffield United
+Jack Hinshelwood,11620,604232,"Apr 9, 2024","Jun 30, 2028",5,3021160,Reserve,M,DM,England,Brighton
+Jakub Moder,11620,604232,"Oct 4, 2020","Jun 30, 2025",2,1208464,Reserve,M,CM,Poland,Brighton
+Yasser Larouci,11620,604232,"Jul 17, 2023","Jun 30, 2024",1,604232,Reserve,D,LB,Algeria,Sheffield United
+Mike Trésor,11620,604232,"Sep 1, 2023","Jun 30, 2024",1,604232,Reserve,F,LW,Belgium,Burnley
+Joe Gauci,11620,604232,"Feb 1, 2024","Jun 30, 2028",5,3021160,Reserve,K,GK,Australia,Aston Villa
+Tom King,11620,604232,"Feb 14, 2024","Jun 30, 2027",4,2416928,Reserve,K,GK,Wales,Wolverhampton
+Joe Whitworth,11620,604232,"Jan 11, 2023","Jun 30, 2027",4,2416928,Reserve,K,GK,England,Crystal Palace
+Tom McGill,11620,604232,"Jun 1, 2023","Jun 30, 2025",2,1208464,Reserve,K,GK,Canada,Brighton
+Tommy Doyle,11620,604232,"Sep 1, 2023","May 31, 2024",1,604232,Reserve,M,CM,England,Wolverhampton
+Max Lowe,11620,604232,"Sep 7, 2020","Jun 30, 2024",1,604232,Reserve,D,LB,England,Sheffield United
+Wilson Odobert,11620,604232,"Aug 12, 2023","Jun 30, 2028",5,3021160,Reserve,F,LW,France,Burnley
+Julio Enciso,11620,604232,"Jul 1, 2022","Jun 30, 2026",3,1812696,Reserve,F,SS,Paraguay,Brighton
+Karl Hein,11620,604232,"Sep 17, 2021","Jun 30, 2024",1,604232,Reserve,K,GK,Estonia,Arsenal
+Kevin Schade,11620,604232,"Jul 1, 2023","Jun 30, 2028",5,3021160,Reserve,F,RW,Germany,Brentford
+Amari'i Bell,11620,604232,"Jun 28, 2023","Jun 30, 2024",1,604232,Starter,D,LB,Jamaica,Luton Town
+Luca Koleosho,11620,604232,"Jul 25, 2023","Jun 30, 2027",4,2416928,Starter,F,LW,Italy,Burnley
+Luke Berry,11620,604232,"Jun 23, 2023","Jun 30, 2024",1,604232,Reserve,M,CM,England,Luton Town
+Mark Gillespie,11620,604232,"May 30, 2024","Jun 30, 2025",2,1208464,Reserve,K,GK,England,Newcastle
+Kortney Hause,11620,604232,"Jul 1, 2019","Jun 30, 2025",2,1208464,Reserve,D,CB,England,Aston Villa
+Ellery Balcombe,11620,604232,"Oct 3, 2023","Jun 30, 2027",4,2416928,Reserve,K,GK,England,Brentford
+Lewis Dobbin,9296,483386,"Jul 1, 2023","Jun 30, 2025",2,966771,Reserve,F,LW,England,Everton
+Alfie Whiteman,8715,453174,"Feb 22, 2023","Jun 30, 2025",2,906348,Reserve,K,GK,England,Tottenham
+Willy Kambwala,8715,453174,"Oct 8, 2021","Jun 30, 2025",2,906348,Reserve,D,CB,France,Manchester United
+Rodrigo Muniz,8715,453174,"Aug 20, 2021","Jun 30, 2026",3,1359522,Reserve,F,CF,Brazil,Fulham
+Andy Lonergan,8715,453174,"Jul 6, 2023","Jun 30, 2024",1,453174,Reserve,K,GK,England,Everton
+Rodrigo Ribeiro,8715,453174,"Feb 1, 2024","Jun 30, 2024",1,453174,Reserve,F,CF,Portugal,Nottingham Forest
+Jesurun Rak-Sakyi,8715,453174,"Jul 1, 2022","Jun 30, 2027",4,1812696,Reserve,F,RW,England,Crystal Palace
+Alfie Doughty,8715,453174,"Jul 1, 2022","Jun 30, 2024",1,453174,Starter,M,LM,England,Luton Town
+Cesare Casadei,8715,453174,"Aug 19, 2022","Jun 30, 2028",5,2265870,Reserve,M,CM,Italy,Chelsea
+João Virgínia,8715,453174,"Jul 9, 2023","Jun 30, 2025",2,906348,Reserve,K,GK,Portugal,Everton
+James Shea,8715,453174,"May 24, 2024","Jun 30, 2025",2,906348,Reserve,K,GK,England,Luton Town
+Lawrence Vigouroux,8134,422962,"Jul 1, 2023","Jun 30, 2026",3,1268887,Reserve,K,GK,Chile,Burnley
+Lewis Hall,8134,422962,"Aug 22, 2023","May 31, 2024",1,422962,Reserve,D,LB,England,Newcastle
+Fred Onyedinma,6972,362539,"Jul 1, 2021","Jun 30, 2024",1,362539,Reserve,F,AM,Nigeria,Luton Town
+Remi Matthews,6257,325356,"Jul 12, 2021","Jun 30, 2024",1,325356,Reserve,K,GK,England,Crystal Palace
+Yegor Yarmolyuk,5810,302116,"Jun 29, 2023","Jun 30, 2028",5,1510580,Reserve,F,AM,Ukraine,Brentford
+Tim Iroegbunam,5810,302116,"Jan 1, 2022","Jun 30, 2027",4,1208464,Reserve,M,CM,England,Aston Villa
+Lewis Miley,5810,302116,"Jul 1, 2023","Jun 30, 2024",1,302116,Reserve,M,CM,England,Newcastle
+Maxime Estève,5810,302116,"Feb 1, 2024","Jun 30, 2024",1,302116,Reserve,D,CB,France,Burnley
+Tyler Onyango,5810,302116,"Jul 1, 2023","Jun 30, 2025",2,604232,Reserve,M,CM,England,Everton
+Shola Shoretire,5810,302116,"Feb 8, 2021","Jun 30, 2024",1,302116,Reserve,F,AM,England,Manchester United
+Jordan Clark,5810,302116,"Aug 5, 2020","Jun 30, 2024",1,302116,Reserve,M,CM,England,Luton Town
+Noha Lemina,5810,302116,"Jan 31, 2024","May 31, 2024",1,302116,Reserve,F,AM,France,Wolverhampton
+Enock Agyei,4648,241693,"Jan 31, 2023","Jun 30, 2027",4,966771,Reserve,F,RW,Belgium,Burnley
+Rhys Norrington-Davies,4648,241693,"Dec 9, 2020","Jun 30, 2024",1,241693,Reserve,D,LB,Wales,Sheffield United
+Daniel Jebbison,4648,241693,"Jul 1, 2021","Jun 30, 2024",1,241693,Reserve,F,CF,Canada,Sheffield United
+Divin Mubama,4648,241693,"Oct 28, 2021","Jun 30, 2024",1,241693,Reserve,F,CF,England,West Ham
+Joseph Anang,4648,241693,"Jan 24, 2023","Jun 30, 2024",1,241693,Reserve,K,GK,England,West Ham
+Jordan Beyer,3486,181270,"Jul 1, 2023","Jun 30, 2027",4,725079,Starter,D,CB,Germany,Burnley
+James Hill,3486,181270,"Jan 5, 2022","Jun 30, 2026",3,543809,Reserve,D,CB,England,Bournemouth
+Ryan Trevitt,2905,151058,"Jul 1, 2023","Jun 30, 2026",3,453174,Reserve,M,CM,England,Brentford
+Elliot Thorpe,2905,151058,"Sep 24, 2021","Jun 30, 2024",1,151058,Reserve,M,CM,Wales,Luton Town
+Louie Marsh,1162,60423,"Jul 1, 2022","Jun 30, 2026",3,181270,Reserve,F,CF,England,Sheffield United
+Kacper Kozlowski,,,"Jan 5, 2022","Jun 30, 2026",3,,Reserve,M,CM,Poland,Brighton
+Hakim Ziyech,,,"Jul 1, 2020","Jun 30, 2025",2,,Reserve,F,RW,Morocco,Chelsea
+Jonjo Shelvey,,,"Jan 31, 2023","Jun 30, 2025",2,,Reserve,M,CM,England,Nottingham Forest
+Hamed Junior Traorè,,,"Jul 1, 2023","Jun 30, 2028",5,,Reserve,F,AM,Cote d'Ivoire,Bournemouth
+João Cancelo,,,"Feb 1, 2022","Jun 30, 2027",4,,Reserve,D,RB,Portugal,Manchester City
+Hannibal,,,"Jan 4, 2024","Jun 30, 2025",2,,Reserve,F,AM,Tunisia,Manchester United
+Kalvin Phillips,,,"Jul 4, 2022","Jun 30, 2028",5,,Reserve,M,DM,England,Manchester City
+Ian Maatsen,,,"Jan 12, 2024","Jun 30, 2026",3,,Reserve,D,LB,Netherlands,Chelsea
+Tanguy Ndombélé,,,"Jul 2, 2019","Jun 30, 2025",2,,Reserve,M,CM,France,Tottenham
+Joe Worrall,,,"Sep 8, 2023","Jun 30, 2026",3,,Reserve,D,CB,England,Nottingham Forest
+Máximo Perrone,,,"Jan 23, 2023","Jun 30, 2028",5,,Reserve,M,DM,Argentina,Manchester City
+Sandro Tonali,,,"Jul 3, 2023","Jun 30, 2028",5,,Reserve,M,DM,Italy,Newcastle
+Romelu Lukaku,,,"Aug 12, 2021","Jun 30, 2026",3,,Reserve,F,CF,Belgium,Chelsea
+Philippe Coutinho,,,"Jul 1, 2022","Jun 30, 2026",3,,Reserve,F,LW,Brazil,Aston Villa
+Emmanuel Dennis,,,"Aug 13, 2022","Jun 30, 2026",3,,Reserve,F,CF,Nigeria,Nottingham Forest
+Lucas Bergström,,,"Feb 29, 2024","Jun 30, 2025",2,,Reserve,K,GK,Finland,Chelsea
+Leander Dendoncker,,,"Sep 1, 2022","Jun 30, 2026",3,,Reserve,M,DM,Belgium,Aston Villa
+Sergio Reguilón,,,"Sep 19, 2020","Jun 30, 2025",2,,Reserve,D,LB,Spain,Tottenham
+Kieran Tierney,,,"Jun 25, 2021","Jun 30, 2026",3,,Reserve,D,LB,Scotland,Arsenal
+Ui-jo Hwang,,,"Aug 26, 2022","Jun 30, 2025",2,,Reserve,F,CF,South Korea,Nottingham Forest
